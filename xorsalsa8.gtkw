@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.79 (w)1999-2017 BSI
+[*] Fri Feb  2 09:15:28 2018
+[*]
+[dumpfile] "/home/eugenk/Projects/Azimut/zamia/XorSalsa8_v/xorsalsa8.vcd"
+[dumpfile_mtime] "Fri Feb  2 09:13:37 2018"
+[dumpfile_size] 207479
+[savefile] "/home/eugenk/Projects/Azimut/zamia/XorSalsa8_v/xorsalsa8.gtkw"
+[timestart] 81620000
+[size] 1680 997
+[pos] -1 -1
+*-21.000000 84950000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[treeopen] testbench.test.
+[sst_width] 225
+[signals_width] 233
+[sst_expanded] 1
+[sst_vpaned_height] 285
+@28
+testbench.test.clk
+testbench.test.enc
+@29
+testbench.rdy
+@22
+testbench.do[31:0]
+testbench.verify[31:0]
+testbench.error[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
